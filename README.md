@@ -1,2 +1,2 @@
 # SchoolProject
-7 Wonders Document
+7 wonders document
